@@ -4,7 +4,7 @@ Various overlays for the [Magicx Zero 40](https://shop.magicx.team/products/magi
 
 
 
-## [GBA Logo BottomScreen Overlay](https://github.com/nicotapiero/Magicx_Zero_40_Customization/tree/main/GBA_Logo_Bottom_Screen)
+## [GBA Logo Bottom Screen Overlay](https://github.com/nicotapiero/Magicx_Zero_40_Customization/tree/main/GBA_Logo_Bottom_Screen)
 ![GBA Overlay Preview](https://github.com/user-attachments/assets/99e557da-83bb-4b3c-b3f7-3b84a40701aa)
 
 
