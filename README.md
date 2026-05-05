@@ -21,3 +21,4 @@ Personally, I like keeping the opacity very low (5-15%), otherwise it can get a 
 ## Other Repos
 Check out these other amazing overlays!
 * https://github.com/NecroPoster/Virtual-Console-Overlay
+* https://github.com/anthonycaccese/magicx-zero-40-retroarch-overlays
