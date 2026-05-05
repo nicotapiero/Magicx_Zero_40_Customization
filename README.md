@@ -16,3 +16,8 @@ While running an emulator through Retroarch:
 4. Select the relevant `.cfg` file (the Android Downloads folder can be found under `/storage/emulated/0/Download`)
 
 Personally, I like keeping the opacity very low (5-15%), otherwise it can get a bit distracting
+
+
+## Other Repos
+Check out these other amazing overlays!
+* https://github.com/NecroPoster/Virtual-Console-Overlay
